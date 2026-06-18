@@ -2,3 +2,8 @@
 .env
 __pycache__/
 logs/
+*-key.json
+*.json
+service-account*.json
+credentials.json
+*.pem
