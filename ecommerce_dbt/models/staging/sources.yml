@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw
+    database: dj-data-pipeline-2026
+    schema: raw
+    tables:
+      - name: orders
